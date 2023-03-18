@@ -12,6 +12,9 @@ public class VeniGit {
 		
 		System.out.println("Gud moring");
 		
+		System.out.println("Happy morning");
+		
+
 	}
 	
 	
